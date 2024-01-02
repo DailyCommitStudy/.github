@@ -6,7 +6,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/seoyeon83">
-        <img src="https://github.com/DailyCommitStudy/profile/source/seoyeon83.png" width="100px;" alt=""/>
+        <img src="source/seoyeon83.png" width="100px;" alt=""/>
         <br />
         <sub>김서연</sub>
       </a>
