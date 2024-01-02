@@ -5,8 +5,8 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/sohds">
-        <img src="https://github.com/DailyCommitStudy/profile/" width="100px;" alt=""/>
+      <a href="https://github.com/seoyeon83">
+        <img src="https://github.com/DailyCommitStudy/profile/source/seoyeon83.png" width="100px;" alt=""/>
         <br />
         <sub>김서연</sub>
       </a>
@@ -14,8 +14,8 @@
         <sub><a href="https://github.com/DailyCommitStudy/Kims-practice-repository">Kims-practice-repository</a></sub>
     </td>
     <td align="center">
-      <a href="https://github.com/BEGOODDS">
-        <img src="https://github.com/DailyCommitStudy/profile/" width="100px;" alt=""/>
+      <a href="https://github.com/sohds">
+        <img src="https://github.com/DailyCommitStudy/profile/source/sohds.png" width="100px;" alt=""/>
         <br />
         <sub>오서연</sub>
       </a>
@@ -23,8 +23,8 @@
         <sub><a href="https://github.com/DailyCommitStudy/Ohs-practice-repository">Ohs-practice-repository</a></sub>
     </td>
     <td align="center">
-      <a href="https://github.com/jinnypstar">
-        <img src="https://github.com/DailyCommitStudy/profile/" width="100px;" alt=""/>
+      <a href="https://github.com/BEGOODDS">
+        <img src="https://github.com/DailyCommitStudy/profile/source/BEGOODDS.png" width="100px;" alt=""/>
         <br />
         <sub>김유빈</sub>
       </a>
@@ -32,8 +32,8 @@
         <sub><a href="https://github.com/DailyCommitStudy/YB-practice-repository">YB-practice-repository</a></sub>
     </td>
     <td align="center">
-      <a href="https://github.com/jinnypstar">
-        <img src="https://github.com/DailyCommitStudy/profile/" width="100px;" alt=""/>
+      <a href="https://github.com/Moon-ye-rin">
+        <img src="https://github.com/DailyCommitStudy/profile/source/Moon-ye-rin.png" width="100px;" alt=""/>
         <br />
         <sub>문예린</sub>
       </a>
@@ -43,8 +43,8 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/sohds">
-        <img src="https://github.com/DailyCommitStudy/profile/" width="100px;" alt=""/>
+      <a href="https://github.com/hyesung322">
+        <img src="https://github.com/DailyCommitStudy/profile/source/hyesung322.png" width="100px;" alt=""/>
         <br />
         <sub>양혜성</sub>
       </a>
@@ -52,8 +52,8 @@
         <sub><a href="https://github.com/DailyCommitStudy/Kims-practice-repository">Yangs-practice-repository</a></sub>
     </td>
     <td align="center">
-      <a href="https://github.com/BEGOODDS">
-        <img src="https://github.com/DailyCommitStudy/profile/" width="100px;" alt=""/>
+      <a href="https://github.com/cloveomr">
+        <img src="https://github.com/DailyCommitStudy/profile/source/cloveomr.jpg" width="100px;" alt=""/>
         <br />
         <sub>엄채린</sub>
       </a>
@@ -61,8 +61,8 @@
         <sub><a href="https://github.com/DailyCommitStudy/Eomc-practice-repository">Eomc-practice-repository</a></sub>
     </td>
     <td align="center">
-      <a href="https://github.com/jinnypstar">
-        <img src="https://github.com/DailyCommitStudy/profile/" width="100px;" alt=""/>
+      <a href="https://github.com/dyoon-23">
+        <img src="https://github.com/DailyCommitStudy/profile/source/dyoon-23.png" width="100px;" alt=""/>
         <br />
         <sub>임다윤</sub>
       </a>
@@ -70,8 +70,8 @@
         <sub><a href="https://github.com/DailyCommitStudy/Lims-practice-repository">Lims-practice-repository</a></sub>
     </td>
     <td align="center">
-      <a href="https://github.com/jinnypstar">
-        <img src="https://github.com/DailyCommitStudy/profile/" width="100px;" alt=""/>
+      <a href="https://github.com/cAhyoung">
+        <img src="https://github.com/DailyCommitStudy/profile/source/cAhyoung.png" width="100px;" alt=""/>
         <br />
         <sub>조아영</sub>
       </a>
