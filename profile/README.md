@@ -6,7 +6,7 @@ DailyCommitSWUtudy는 각자 꾸준히 코딩테스트 문제를 풀이하고, �
   <tr>
     <td align="center">
       <a href="https://github.com/seoyeon83">
-        <img src="source/seoyeon83.png" width="100px;" alt=""/>
+        <img src="https://github.com/DailyCommitStudy/.github/blob/main/profile/source/seoyeon83.png" width="100px;" alt=""/>
         <br />
         <sub>김서연</sub>
       </a>
@@ -15,7 +15,7 @@ DailyCommitSWUtudy는 각자 꾸준히 코딩테스트 문제를 풀이하고, �
     </td>
     <td align="center">
       <a href="https://github.com/sohds">
-        <img src="source/sohds.png" width="100px;" alt=""/>
+        <img src="https://github.com/DailyCommitStudy/.github/blob/main/profile/source/sohds.png" width="100px;" alt=""/>
         <br />
         <sub>오서연</sub>
       </a>
@@ -24,7 +24,7 @@ DailyCommitSWUtudy는 각자 꾸준히 코딩테스트 문제를 풀이하고, �
     </td>
     <td align="center">
       <a href="https://github.com/BEGOODDS">
-        <img src="source/BEGOODDS.png" width="100px;" alt=""/>
+        <img src="https://github.com/DailyCommitStudy/.github/blob/main/profile/source/BEGOODDS.png" width="100px;" alt=""/>
         <br />
         <sub>김유빈</sub>
       </a>
@@ -33,7 +33,7 @@ DailyCommitSWUtudy는 각자 꾸준히 코딩테스트 문제를 풀이하고, �
     </td>
     <td align="center">
       <a href="https://github.com/Moon-ye-rin">
-        <img src="source/Moon-ye-rin.png" width="100px;" alt=""/>
+        <img src="https://github.com/DailyCommitStudy/.github/blob/main/profile/source/Moon-ye-rin.png" width="100px;" alt=""/>
         <br />
         <sub>문예린</sub>
       </a>
@@ -44,7 +44,7 @@ DailyCommitSWUtudy는 각자 꾸준히 코딩테스트 문제를 풀이하고, �
   <tr>
     <td align="center">
       <a href="https://github.com/hyesung322">
-        <img src="source/hyesung322.png" width="100px;" alt=""/>
+        <img src="https://github.com/DailyCommitStudy/.github/blob/main/profile/source/hyesung322.png" width="100px;" alt=""/>
         <br />
         <sub>양혜성</sub>
       </a>
@@ -53,7 +53,7 @@ DailyCommitSWUtudy는 각자 꾸준히 코딩테스트 문제를 풀이하고, �
     </td>
     <td align="center">
       <a href="https://github.com/cloveomr">
-        <img src="source/cloveomr.jpg" width="100px;" alt=""/>
+        <img src="https://github.com/DailyCommitStudy/.github/blob/main/profile/source/cloveomr.jpg" width="100px;" alt=""/>
         <br />
         <sub>엄채린</sub>
       </a>
@@ -62,7 +62,7 @@ DailyCommitSWUtudy는 각자 꾸준히 코딩테스트 문제를 풀이하고, �
     </td>
     <td align="center">
       <a href="https://github.com/dyoon-23">
-        <img src="source/dyoon-23.png" width="100px;" alt=""/>
+        <img src="https://github.com/DailyCommitStudy/.github/blob/main/profile/source/dyoon-23.png" width="100px;" alt=""/>
         <br />
         <sub>임다윤</sub>
       </a>
@@ -71,7 +71,7 @@ DailyCommitSWUtudy는 각자 꾸준히 코딩테스트 문제를 풀이하고, �
     </td>
     <td align="center">
       <a href="https://github.com/cAhyoung">
-        <img src="source/cAhyoung.png" width="100px;" alt=""/>
+        <img src="https://github.com/DailyCommitStudy/.github/blob/main/profile/source/cAhyoung.png" width="100px;" alt=""/>
         <br />
         <sub>조아영</sub>
       </a>
