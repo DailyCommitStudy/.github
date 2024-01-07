@@ -49,7 +49,7 @@ DailyCommitSWUtudy는 각자 꾸준히 코딩테스트 문제를 풀이하고, �
         <sub>양혜성</sub>
       </a>
         <br>
-        <sub><a href="https://github.com/DailyCommitStudy/Kims-practice-repository">Yangs-practice-repository</a></sub>
+        <sub><a href="https://github.com/DailyCommitStudy/Yangs-practice-repository">Yangs-practice-repository</a></sub>
     </td>
     <td align="center">
       <a href="https://github.com/cloveomr">
